@@ -6,8 +6,8 @@
 
 | Лекции  | Материалы |
 | ------------- | ------------- |
-| **Уравнения Математической физики**  | [Лекции в pdf](https://github.com/Group312/sem5/blob/76f70f386d1b84c0e4e1481fbfdbfb64c6274d3f/Urmaty_lektsii.pdf)  |
-| **Основы кибернетики**  | This site was built using [GitHub Pages](https://pages.github.com/).  |
+| **Уравнения Математической физики**  | [Все лекции в pdf](https://github.com/Group312/sem5/blob/76f70f386d1b84c0e4e1481fbfdbfb64c6274d3f/Urmaty_lektsii.pdf)  |
+| **Основы кибернетики**  | [Сайт со всей информацией по курсу и материалами](https://mk.cs.msu.ru/index.php/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D0%B8%D0%BA%D0%B8)  |
 | Методы машинного обучения  | Content Cell  |
 | Оптимальное управление  | Content Cell  |
 | Вероятностные модели  | Content Cell  |
