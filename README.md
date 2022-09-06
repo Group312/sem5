@@ -13,7 +13,7 @@
 | Вероятностные модели  | - [Ссылка на youtube лекции прошлых лет](https://youtube.com/playlist?list=PLcsjsqLLSfNBx9exF_geaBYYWuSwNE1sI)<br /> - [Все лекции в pdf](https://github.com/Group312/sem5/blob/63dc86c6bf488e4ca974fd27905854b51396a2da/probabilistic-model-M.pdf) |
 | Функциональный анализ  | [Все лекции в pdf](https://github.com/Group312/sem5/blob/7894849c9056d792966e73c90dce8a057b541da3/40470-39397.pdf)  |
 | **Статистическая физика**  | ((((  |
-| Методы оптимизации  | *все материалы в google classroom код: cuukui5* <br /> Лекции в pdf: [Лекция 1](https://github.com/Group312/sem5/blob/ea5102a17f5ea16135c339f6b83920da91245301/OM%20lectures%20up%20to%20Sept%208%202022.pdf) |
+| Методы оптимизации  | - *все материалы в google classroom код: cuukui5* <br /> Лекции в pdf: - [[Лекция 1]](https://github.com/Group312/sem5/blob/ea5102a17f5ea16135c339f6b83920da91245301/OM%20lectures%20up%20to%20Sept%208%202022.pdf) |
 | **Экономика**  | Content Cell  |
 
 | Семинары  | Материалы |
