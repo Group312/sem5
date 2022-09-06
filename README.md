@@ -28,12 +28,7 @@
 | **Статистическая физика**  | Content Cell  |
 | **Актуарная математика**  | Content Cell  |
 
-|   Markdown   | Rendered HTML |
-|--------------|---------------|
-|    *Italic*  | *Italic*      | \
-|              |               |
-|    - Item 1  | - Item 1      | \
-|    - Item 2  | - Item 2      |
-|    ```python | ```python       \
-|    .1 + .2   | .1 + .2         \
-|    ```       | ```           |
+|_. First Header |_. Second Header     |
+| Content Cell   | Content Cell Line 1
+                   Content Cell Line 2 |
+| Content Cell   | Content Cell        |
