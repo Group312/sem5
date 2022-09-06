@@ -16,11 +16,11 @@
 | Методы оптимизации  | - *все материалы в google classroom код: cuukui5* <br /> - Лекции в pdf: [[Лекция 1]](https://github.com/Group312/sem5/blob/ea5102a17f5ea16135c339f6b83920da91245301/OM%20lectures%20up%20to%20Sept%208%202022.pdf) |
 | **Экономика**  | - Лекции в pdf: [[Лекция 1]](https://github.com/Group312/sem5/blob/92d5e7bc870c723c8130a83d13f9243193a17a1e/Lektsia_1_Predprinimatelstvo.pdf)  |
 
-| Семинары  | Материалы |
-| ------------- | -------------  |
-| **Основы кибернетики**  | ----------------------------(  |
-| Уравнения Математической физики  | Сборник задач: [[часть1]](https://github.com/Group312/sem5/blob/ae4f2440d91055f6c1c158d687c17e0458343e18/Zadachnik-1-40.pdf) [[часть2]](https://github.com/Group312/sem5/blob/ae4f2440d91055f6c1c158d687c17e0458343e18/Zadachnik-41-81.pdf) |
-| **Экономика**  | ----------------------------(   |
-| **Статистическая физика**  | Сборник задач: [[часть1]](https://github.com/Group312/sem5/blob/cc5db8e0c40133c745a63a8b67a280955f7dcdf2/Thermodynamics_and_statistical_physics_for_math%20(2)-1-44.pdf) [[часть 2]](https://github.com/Group312/sem5/blob/cc5db8e0c40133c745a63a8b67a280955f7dcdf2/Thermodynamics_and_statistical_physics_for_math%20(2)-45-88.pdf)  |
-| **Актуарная математика**  | ----------------------------(   |
+| Семинары  | Материалы | Задание |
+| ------------- | -------------  | -------------  |
+| **Основы кибернетики**  | ----------------------------(  | - |
+| Уравнения Математической физики  | Сборник задач: [[часть1]](https://github.com/Group312/sem5/blob/ae4f2440d91055f6c1c158d687c17e0458343e18/Zadachnik-1-40.pdf) [[часть2]](https://github.com/Group312/sem5/blob/ae4f2440d91055f6c1c158d687c17e0458343e18/Zadachnik-41-81.pdf) | 1.20, 1.16, 1.10, 1.7, 1.26|
+| **Экономика**  | ----------------------------(   | - |
+| **Статистическая физика**  | Сборник задач: [[часть1]](https://github.com/Group312/sem5/blob/cc5db8e0c40133c745a63a8b67a280955f7dcdf2/Thermodynamics_and_statistical_physics_for_math%20(2)-1-44.pdf) [[часть 2]](https://github.com/Group312/sem5/blob/cc5db8e0c40133c745a63a8b67a280955f7dcdf2/Thermodynamics_and_statistical_physics_for_math%20(2)-45-88.pdf)  | разобрать §1|
+| **Актуарная математика**  | ----------------------------(   | - |
 
