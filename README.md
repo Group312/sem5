@@ -6,7 +6,7 @@
 
 | Лекции  | Материалы |
 | ------------- | ------------- |
-| **Уравнения Математической физики**  | Urmaty_lektsii.pdf  |
+| **Уравнения Математической физики**  | <script src= https://github.com/Group312/sem5/blob/76f70f386d1b84c0e4e1481fbfdbfb64c6274d3f/Urmaty_lektsii.pdf></script>  |
 | **Основы кибернетики**  | Content Cell  |
 | Методы машинного обучения  | Content Cell  |
 | Оптимальное управление  | Content Cell  |
