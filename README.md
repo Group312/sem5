@@ -6,7 +6,7 @@
 
 | Лекции  | Материалы |
 | ------------- | ------------- |
-| **Уравнения Математической физики**  | <script src="https://embed.github.com/view/geojson/<username>/<repo>/<ref>/<path_to_file>"></script>  |
+| **Уравнения Математической физики**  |   |
 | **Основы кибернетики**  | Content Cell  |
 | Методы машинного обучения  | Content Cell  |
 | Оптимальное управление  | Content Cell  |
