@@ -11,7 +11,7 @@
 | Методы машинного обучения  | [Git со всей информацией по курсу и записями лекций](https://github.com/MSU-ML-COURSE/ML-COURSE-22-23)  |
 | Оптимальное управление  | ((((пока нету  |
 | Вероятностные модели  | - [Ссылка на youtube лекции прошлых лет](https://youtube.com/playlist?list=PLcsjsqLLSfNBx9exF_geaBYYWuSwNE1sI)<br /> - [Все лекции в pdf](https://github.com/Group312/sem5/blob/63dc86c6bf488e4ca974fd27905854b51396a2da/probabilistic-model-M.pdf) |
-| Функциональный анализ  | Content Cell  |
+| Функциональный анализ  | [Все лекции в pdf](https://github.com/Group312/sem5/blob/7894849c9056d792966e73c90dce8a057b541da3/40470-39397.pdf)  |
 | **Статистическая физика**  | Content Cell  |
 | Методы оптимизации  | Content Cell  |
 | **Экономика**  | Content Cell  |
