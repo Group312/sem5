@@ -21,6 +21,6 @@ The_life_of_312
 | **Основы кибернетики**  | ----------------------------(  | - |
 | Уравнения Математической физики  | Сборник задач: [[часть1]](https://github.com/Group312/sem5/blob/ae4f2440d91055f6c1c158d687c17e0458343e18/Zadachnik-1-40.pdf) [[часть2]](https://github.com/Group312/sem5/blob/ae4f2440d91055f6c1c158d687c17e0458343e18/Zadachnik-41-81.pdf) | 1.20, 1.16, 1.10, 1.7, 1.26|
 | **Экономика**  | ----------------------------(   | - |
-| **Статистическая физика**  | Сборник задач: [[часть1]](https://github.com/Group312/sem5/blob/cc5db8e0c40133c745a63a8b67a280955f7dcdf2/Thermodynamics_and_statistical_physics_for_math%20(2)-1-44.pdf) [[часть 2]](https://github.com/Group312/sem5/blob/cc5db8e0c40133c745a63a8b67a280955f7dcdf2/Thermodynamics_and_statistical_physics_for_math%20(2)-45-88.pdf)  | разобрать §1|
+| **Статистическая физика**  | Сборник задач: [[часть1]](https://github.com/Group312/sem5/blob/cc5db8e0c40133c745a63a8b67a280955f7dcdf2/Thermodynamics_and_statistical_physics_for_math%20(2)-1-44.pdf) [[часть 2]](https://github.com/Group312/sem5/blob/cc5db8e0c40133c745a63a8b67a280955f7dcdf2/Thermodynamics_and_statistical_physics_for_math%20(2)-45-88.pdf)  | разобрать §2|
 | **Актуарная математика**  | ----------------------------(   | - |
 
