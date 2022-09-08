@@ -14,7 +14,7 @@ The_life_of_312
 | Функциональный анализ  | - [Все лекции в pdf](https://github.com/Group312/sem5/blob/7894849c9056d792966e73c90dce8a057b541da3/40470-39397.pdf)  |
 | **Статистическая физика**  | - [Все лекции в pdf](https://github.com/Group312/sem5/blob/1b391ec2ac3f99fcf8e1d3ae8654bf3be38b0aa6/2021_Lektsii_Andreev.pdf)   |
 | Методы оптимизации  | - *все материалы в google classroom код: cuukui5* <br /> - Лекции в pdf: [[Лекция 1]](https://github.com/Group312/sem5/blob/ea5102a17f5ea16135c339f6b83920da91245301/OM%20lectures%20up%20to%20Sept%208%202022.pdf) [[Лекция 2]](https://github.com/Group312/sem5/blob/0dfff65798db1a8a4f282f9cdf42c2d6f0280a85/OM%20lectures%20up%20to%20Sept%2015%202022-8-14.pdf) [[Лекция 3]](https://github.com/Group312/sem5/blob/0dfff65798db1a8a4f282f9cdf42c2d6f0280a85/OM%20lectures%20up%20to%20Sept%2015%202022-15-22.pdf)|
-| **Экономика**  | - Лекции в pdf: [[Лекция 1]](https://github.com/Group312/sem5/blob/92d5e7bc870c723c8130a83d13f9243193a17a1e/Lektsia_1_Predprinimatelstvo.pdf)  |
+| **Экономика**  | - Лекции в pdf: [[Лекция 1]](https://github.com/Group312/sem5/blob/92d5e7bc870c723c8130a83d13f9243193a17a1e/Lektsia_1_Predprinimatelstvo.pdf)[[Лекция 2]](https://github.com/Group312/sem5/blob/333dde79d4cce9755efe629021f4f362d93a6b31/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-2.-%D0%A6%D0%B5%D0%BD%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5....pdf)|
 
 | Семинары  | Материалы | Задание |
 | ------------- | -------------  | -------------  |
